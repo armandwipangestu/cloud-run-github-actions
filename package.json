@@ -1,0 +1,14 @@
+{
+    "name": "cloud-run-github-actions",
+    "version": "1.0.0",
+    "main": "index.js",
+    "repository": "git@github.com:armandwipangestu/cloud-run-github-actions.git",
+    "author": "Arman <armandwi.pangestu7@gmail.com>",
+    "license": "MIT",
+    "scripts": {
+        "start": "node ./index.js"
+    },
+    "dependencies": {
+        "express": "^4.19.2"
+    }
+}
